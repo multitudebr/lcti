@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diário/2023-06-18.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -235,8 +234,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f6d97eb068ac588",
+  "active": "3128c295f14c2331",
   "lastOpenFiles": [
+    "Diário/2023-06-18.md",
     "Home.md",
     "Grupos de estudo.md",
     "Cine LCTI.md",
@@ -244,7 +244,6 @@
     "Tarefas gerais.md",
     "Atas.md",
     "Obsidian/Como fazer um painel no Obsidian.md",
-    "Diário/2023-06-18.md",
     "Programação Shell Linux.md",
     "Arquivos externos/ATA_REUNIAO_19-02-2023.pdf",
     "Referências/Untitled.md",
