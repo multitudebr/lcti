@@ -8,4 +8,4 @@
 8) Estudo e conteúdo relacionado à desigualdade de gênero no TI
 9) Formas de vínculo de trabalho e experiência interna
 10) Regulamentação da profissão
-11) Cooperativas no mundo da TI
+11) Cooperativas no mundo da TI 
