@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "5f6d97eb068ac588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diário/2023-06-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87b14e02a4c56016",
             "type": "leaf",
             "state": {
@@ -113,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.51103591918945,
-    "collapsed": true
+    "width": 254.51103591918945
   },
   "right": {
     "id": "9d8822fa28691f2b",
@@ -198,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diário/2023-06-18.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -280,15 +266,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f6d97eb068ac588",
+  "active": "3128c295f14c2331",
   "lastOpenFiles": [
-    "Home.md",
-    "Página de exemplo.md",
-    "Tarefas gerais.md",
     "Cine LCTI.md",
+    "Tarefas gerais.md",
+    "Página de exemplo.md",
+    "Home.md",
+    "Diário/2023-06-18.md",
     "Grupos de estudo.md",
     "Atas.md",
-    "Diário/2023-06-18.md",
     "README.md",
     "Arquivos externos/logoLCTIsemFundo200.png",
     "Obsidian/Como fazer um painel no Obsidian.md",
