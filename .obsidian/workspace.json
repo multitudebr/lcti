@@ -51,14 +51,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Página de exemplo.md",
+                "file": "Modelos/Template de nova nota.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0017f566dd4ee6f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7975ced9caf43ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nova.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.51103591918945,
-    "collapsed": true
+    "width": 254.51103591918945
   },
   "right": {
     "id": "9d8822fa28691f2b",
@@ -142,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atas.md",
+                "file": "nova.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +243,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c504e53a55f58e0",
+  "active": "c7975ced9caf43ee",
   "lastOpenFiles": [
-    "Home.md",
-    "Atas.md",
-    "Tarefas gerais.md",
+    "nova.md",
+    "Modelos/Template de nova nota.md",
     "Página de exemplo.md",
+    "Tarefas gerais.md",
+    "Atas.md",
+    "Home.md",
     "Grupos de estudo.md",
     "Cine LCTI.md",
     "Diário/2023-06-18.md",
@@ -252,7 +272,6 @@
     "Diário/2023-06-18 1.md",
     "Obsidian",
     "Obsidian/Fontes do Obsidian.md",
-    "Modelos/Template de nova nota.md",
     "Arquivos externos/Dashboard++ — a simple organization and navigation method for Obsidian Vaults by TfTHacker Obsidian Observer Medium.pdf",
     "Obsidian/Como usar o rastreador de hábitos no Obsidian.md",
     "Arquivos externos/logoLCTI.png",
@@ -264,7 +283,6 @@
     "Templates/New notes template.md",
     "Templates/Books template.md",
     "Kindle no obsidian.md",
-    "MOC02_Obsidian.md",
     "Pasted image 20230618094401.png",
     "Assets/az_recorder_20230616_092034.mp4",
     "Assets/stopSaying.mp3",
