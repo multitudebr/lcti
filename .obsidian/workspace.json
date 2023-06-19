@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -88,8 +88,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ddb12646f11b51b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarefas gerais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e2dc915632b384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Página de exemplo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Diário/2023-06-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -239,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,16 +280,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c877165d5b34229e",
+  "active": "5f6d97eb068ac588",
   "lastOpenFiles": [
+    "Home.md",
+    "Página de exemplo.md",
+    "Tarefas gerais.md",
     "Cine LCTI.md",
     "Grupos de estudo.md",
     "Atas.md",
     "Diário/2023-06-18.md",
-    "Home.md",
     "README.md",
     "Arquivos externos/logoLCTIsemFundo200.png",
-    "Tarefas gerais.md",
     "Obsidian/Como fazer um painel no Obsidian.md",
     "Programação Shell Linux.md",
     "Arquivos externos/ATA_REUNIAO_19-02-2023.pdf",

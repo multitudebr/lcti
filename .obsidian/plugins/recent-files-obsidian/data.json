@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-18",
+      "path": "Diário/2023-06-18.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Página de exemplo",
+      "path": "Página de exemplo.md"
+    },
+    {
+      "basename": "Tarefas gerais",
+      "path": "Tarefas gerais.md"
     },
     {
       "basename": "Cine LCTI",
@@ -17,16 +29,8 @@
       "path": "Atas.md"
     },
     {
-      "basename": "2023-06-18",
-      "path": "Diário/2023-06-18.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Tarefas gerais",
-      "path": "Tarefas gerais.md"
     },
     {
       "basename": "Como fazer um painel no Obsidian",
@@ -35,10 +39,6 @@
     {
       "basename": "Vídeos",
       "path": "Referências/Vídeos.md"
-    },
-    {
-      "basename": "Fontes do Obsidian",
-      "path": "Obsidian/Fontes do Obsidian.md"
     }
   ],
   "omittedPaths": [],
