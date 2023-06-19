@@ -68,8 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e925d9f3f753c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -218,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,10 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3128c295f14c2331",
+  "active": "6e925d9f3f753c90",
   "lastOpenFiles": [
-    "Diário/2023-06-18.md",
     "Home.md",
+    "Diário/2023-06-18.md",
     "Grupos de estudo.md",
     "Cine LCTI.md",
     "README.md",

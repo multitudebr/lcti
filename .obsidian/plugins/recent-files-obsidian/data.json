@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Fontes do Obsidian",
       "path": "Obsidian/Fontes do Obsidian.md"
-    },
-    {
-      "basename": "Template de nova nota",
-      "path": "Modelos/Template de nova nota.md"
     }
   ],
   "omittedPaths": [],
