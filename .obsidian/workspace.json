@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diário/2023-06-18.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -240,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,15 +256,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f6d97eb068ac588",
+  "active": "c877165d5b34229e",
   "lastOpenFiles": [
-    "Home.md",
+    "Cine LCTI.md",
+    "Grupos de estudo.md",
     "Atas.md",
     "Diário/2023-06-18.md",
+    "Home.md",
     "README.md",
     "Arquivos externos/logoLCTIsemFundo200.png",
-    "Grupos de estudo.md",
-    "Cine LCTI.md",
     "Tarefas gerais.md",
     "Obsidian/Como fazer um painel no Obsidian.md",
     "Programação Shell Linux.md",
