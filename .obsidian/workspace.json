@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grupos de estudo.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -200,10 +199,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87b14e02a4c56016",
+  "active": "3128c295f14c2331",
   "lastOpenFiles": [
-    "Home.md",
     "Grupos de estudo.md",
+    "Home.md",
     "README.md",
     "Tarefas gerais.md",
     "Atas.md",
