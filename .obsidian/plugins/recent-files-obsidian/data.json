@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Grupos de estudo",
+      "path": "Grupos de estudo.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "New notes template",
       "path": "Templates/New notes template.md"
-    },
-    {
-      "basename": "Teste templater",
-      "path": "Teste templater.md"
     }
   ],
   "omittedPaths": [],
