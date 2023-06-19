@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.51103591918945
+    "width": 254.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9d8822fa28691f2b",
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarefas gerais.md",
+                "file": "Atas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,12 +225,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ddb12646f11b51b9",
+  "active": "8c504e53a55f58e0",
   "lastOpenFiles": [
     "Home.md",
+    "Atas.md",
     "Tarefas gerais.md",
     "Página de exemplo.md",
-    "Atas.md",
     "Grupos de estudo.md",
     "Cine LCTI.md",
     "Diário/2023-06-18.md",
