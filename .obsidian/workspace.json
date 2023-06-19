@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cine LCTI.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -212,11 +211,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc5e66c073c57d18",
+  "active": "3128c295f14c2331",
   "lastOpenFiles": [
-    "Home.md",
-    "Cine LCTI.md",
     "Grupos de estudo.md",
+    "Cine LCTI.md",
+    "Home.md",
     "README.md",
     "Tarefas gerais.md",
     "Atas.md",
