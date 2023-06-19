@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -76,8 +76,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "8c504e53a55f58e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Diário/2023-06-18.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -244,16 +257,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3128c295f14c2331",
+  "active": "5f6d97eb068ac588",
   "lastOpenFiles": [
     "Home.md",
+    "Atas.md",
     "Diário/2023-06-18.md",
     "README.md",
     "Arquivos externos/logoLCTIsemFundo200.png",
     "Grupos de estudo.md",
     "Cine LCTI.md",
     "Tarefas gerais.md",
-    "Atas.md",
     "Obsidian/Como fazer um painel no Obsidian.md",
     "Programação Shell Linux.md",
     "Arquivos externos/ATA_REUNIAO_19-02-2023.pdf",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-18",
+      "path": "Diário/2023-06-18.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
     {
-      "basename": "2023-06-18",
-      "path": "Diário/2023-06-18.md"
+      "basename": "Atas",
+      "path": "Atas.md"
     },
     {
       "basename": "README",
@@ -23,10 +27,6 @@
     {
       "basename": "Tarefas gerais",
       "path": "Tarefas gerais.md"
-    },
-    {
-      "basename": "Atas",
-      "path": "Atas.md"
     },
     {
       "basename": "Como fazer um painel no Obsidian",
