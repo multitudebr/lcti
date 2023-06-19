@@ -1,0 +1,47 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Tarefas gerais",
+      "path": "Tarefas gerais.md"
+    },
+    {
+      "basename": "Atas",
+      "path": "Atas.md"
+    },
+    {
+      "basename": "Como fazer um painel no Obsidian",
+      "path": "Obsidian/Como fazer um painel no Obsidian.md"
+    },
+    {
+      "basename": "2023-06-18",
+      "path": "Diário/2023-06-18.md"
+    },
+    {
+      "basename": "Vídeos",
+      "path": "Referências/Vídeos.md"
+    },
+    {
+      "basename": "Fontes do Obsidian",
+      "path": "Obsidian/Fontes do Obsidian.md"
+    },
+    {
+      "basename": "Template de nova nota",
+      "path": "Modelos/Template de nova nota.md"
+    },
+    {
+      "basename": "New notes template",
+      "path": "Templates/New notes template.md"
+    },
+    {
+      "basename": "Teste templater",
+      "path": "Teste templater.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 10,
+  "openType": "tab"
+}

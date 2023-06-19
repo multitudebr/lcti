@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "cssTheme": "",
+  "accentColor": "#14c2ae",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
+}

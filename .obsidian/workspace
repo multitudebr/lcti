@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "d2b3952e0be9feeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "12af5a78350a7307",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2022-10-12.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcbead16e58961ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd2afe139ace8f1",
+        "type": "tabs",
+        "dimension": 57.223001402524545,
+        "children": [
+          {
+            "id": "c877165d5b34229e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ff6a64e51aaed8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "matcha",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4b7bd2d6004bcaa",
+        "type": "tabs",
+        "dimension": 42.776998597475455,
+        "children": [
+          {
+            "id": "db2e5dd4c2570bb2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d8822fa28691f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd14f52a1266d946",
+        "type": "tabs",
+        "dimension": 66.4796633941094,
+        "children": [
+          {
+            "id": "2967c860e174f5c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2022-10-12.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cafceecfea04136b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c03b06a425b1b1e1",
+        "type": "tabs",
+        "dimension": 33.520336605890606,
+        "children": [
+          {
+            "id": "f121429d37c80752",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "12af5a78350a7307",
+  "lastOpenFiles": [
+    "The Banshee and The Goblin.md",
+    "Daily/2022-10-12.md",
+    "Daily/2022-10-11.md",
+    "Daily/2022-10-10.md",
+    "Saúde.md",
+    "Daily/2022-10-05.md",
+    "Daily/2022-10-09.md",
+    "Daily/2022-10-06.md",
+    "Daily/2022-10-08.md",
+    "Daily/2022-10-07.md"
+  ]
+}

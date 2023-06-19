@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "d2b3952e0be9feeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c20e2e4d09ba91a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3128c295f14c2331",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcbead16e58961ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd2afe139ace8f1",
+        "type": "tabs",
+        "dimension": 56.41025641025641,
+        "children": [
+          {
+            "id": "c877165d5b34229e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "4ff6a64e51aaed8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#obsidian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "c68c26d4eb600d56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4b7bd2d6004bcaa",
+        "type": "tabs",
+        "dimension": 43.58974358974359,
+        "children": [
+          {
+            "id": "db2e5dd4c2570bb2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.51103591918945
+  },
+  "right": {
+    "id": "9d8822fa28691f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd14f52a1266d946",
+        "type": "tabs",
+        "dimension": 53.441295546558706,
+        "children": [
+          {
+            "id": "2967c860e174f5c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "Pão lowcarb",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cafceecfea04136b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7e1f021d4767a2f",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c2039fa3c9f98a4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5329d01aec3ad9c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c03b06a425b1b1e1",
+        "type": "tabs",
+        "dimension": 46.558704453441294,
+        "children": [
+          {
+            "id": "f121429d37c80752",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3128c295f14c2331",
+  "lastOpenFiles": [
+    "README.md",
+    "Tarefas gerais.md",
+    "Home.md",
+    "Atas.md",
+    "Obsidian/Como fazer um painel no Obsidian.md",
+    "Diário/2023-06-18.md",
+    "Programação Shell Linux.md",
+    "Arquivos externos/ATA_REUNIAO_19-02-2023.pdf",
+    "Referências/Untitled.md",
+    "Referências/Vídeos.md",
+    "Referências",
+    "Arquivos externos/sindicato.jpg",
+    "Arquivos externos/bannerLCTI4.png",
+    "Arquivos externos/bannerLCTI3.png",
+    "Arquivos externos/logoLCTIsemFundo.png",
+    "Arquivos externos/bannerLCTI2.png",
+    "Cool note.md",
+    "[[Como.md",
+    "Diário/2023-06-18 1.md",
+    "Obsidian",
+    "Obsidian/Fontes do Obsidian.md",
+    "Modelos/Template de nova nota.md",
+    "Arquivos externos/Dashboard++ — a simple organization and navigation method for Obsidian Vaults by TfTHacker Obsidian Observer Medium.pdf",
+    "Obsidian/Como usar o rastreador de hábitos no Obsidian.md",
+    "Arquivos externos/logoLCTI.png",
+    "Arquivos externos/bannerLCTI.png",
+    "Teste templater.md",
+    "Dashboard++.md",
+    "Daily/2023-04-18.md",
+    "Oficina de Obsidian.md",
+    "Templates/New notes template.md",
+    "Templates/Books template.md",
+    "Kindle no obsidian.md",
+    "MOC02_Obsidian.md",
+    "Pasted image 20230618094401.png",
+    "Mandarim/Estudo da gramática e vocabulário - 孤勇者.md",
+    "Daily/2023-06-17.md",
+    "Daily/2023-06-16.md",
+    "Assets/az_recorder_20230616_092034.mp4",
+    "Assets/stopSaying.mp3",
+    "Assets/2023-06-16-08:28:56.mp3",
+    "Assets/20230616_080731.mp4",
+    "Assets/UnderTheSkin2.jpg",
+    "Assets/20230613_204958.jpg",
+    "Assets/《孤勇者》（《英雄聯盟：雙城之戰》動畫劇集中文主題曲）陳奕迅 Eason Chan [Official MV] - Yo.mp3",
+    "Assets/Roteiro - CHINA I_SETEMBRO 2023 - 401596.pdf",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

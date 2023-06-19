@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": false,
+  "readableLineLength": true
+}
