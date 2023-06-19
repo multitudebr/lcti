@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cine LCTI",
+      "path": "Cine LCTI.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Template de nova nota",
       "path": "Modelos/Template de nova nota.md"
-    },
-    {
-      "basename": "New notes template",
-      "path": "Templates/New notes template.md"
     }
   ],
   "omittedPaths": [],

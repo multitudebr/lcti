@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc5e66c073c57d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cine LCTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Cine LCTI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,10 +212,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3128c295f14c2331",
+  "active": "dc5e66c073c57d18",
   "lastOpenFiles": [
-    "Grupos de estudo.md",
     "Home.md",
+    "Cine LCTI.md",
+    "Grupos de estudo.md",
     "README.md",
     "Tarefas gerais.md",
     "Atas.md",
@@ -238,7 +252,6 @@
     "MOC02_Obsidian.md",
     "Pasted image 20230618094401.png",
     "Mandarim/Estudo da gramática e vocabulário - 孤勇者.md",
-    "Daily/2023-06-17.md",
     "Assets/az_recorder_20230616_092034.mp4",
     "Assets/stopSaying.mp3",
     "Assets/2023-06-16-08:28:56.mp3",
