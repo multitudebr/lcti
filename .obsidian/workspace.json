@@ -80,9 +80,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d35e17bdd814dce4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.51103591918945
+    "width": 254.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "9d8822fa28691f2b",
@@ -165,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -231,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,14 +256,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e925d9f3f753c90",
+  "active": "d35e17bdd814dce4",
   "lastOpenFiles": [
-    "Arquivos externos/logoLCTIsemFundo200.png",
     "Home.md",
+    "README.md",
+    "Arquivos externos/logoLCTIsemFundo200.png",
     "Diário/2023-06-18.md",
     "Grupos de estudo.md",
     "Cine LCTI.md",
-    "README.md",
     "Tarefas gerais.md",
     "Atas.md",
     "Obsidian/Como fazer um painel no Obsidian.md",
@@ -292,7 +301,6 @@
     "Assets/2023-06-16-08:28:56.mp3",
     "Assets/20230616_080731.mp4",
     "Assets/UnderTheSkin2.jpg",
-    "Assets/20230613_204958.jpg",
     "Assets/《孤勇者》（《英雄聯盟：雙城之戰》動畫劇集中文主題曲）陳奕迅 Eason Chan [Official MV] - Yo.mp3",
     "Assets/Roteiro - CHINA I_SETEMBRO 2023 - 401596.pdf",
     "Untitled 1.canvas",
