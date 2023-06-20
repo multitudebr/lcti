@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nova.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7975ced9caf43ee",
+  "active": "3128c295f14c2331",
   "lastOpenFiles": [
     "nova.md",
     "Modelos/Template de nova nota.md",

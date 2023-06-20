@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "nova",
       "path": "nova.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Atas",
       "path": "Atas.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Grupos de estudo",
